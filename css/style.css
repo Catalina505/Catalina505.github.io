@@ -124,8 +124,9 @@ ul.agileits-address-text li a {
    font-family: 'Raleway', sans-serif;
 }
 .w3-banner-img p {
-    color: #ffc53e;
-    font-size: 1em;
+    color: #95ff3e;
+    font-weight: 700;
+    font-size: 1.5em;
     line-height: 1.5em;
     text-transform: uppercase;
 	letter-spacing: 2px;
