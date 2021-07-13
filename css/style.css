@@ -1222,11 +1222,9 @@ h4.modal-title {
 }
 .w3l_footer_pos p{
 	text-align:center;
-	color:#fff;
 	line-height:1.8em;
 }
 .w3l_footer_pos p a{
-	color:#44c7f4;
 	text-decoration:underline;
 }
 .w3l_footer_pos p a:hover{
