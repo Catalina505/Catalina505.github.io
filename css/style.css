@@ -730,6 +730,9 @@ i.fa.fa-users,i.fa.fa-code,i.fa.fa-laptop{
     letter-spacing: 1px;
 	width: 59%;
 }
+.w3-edu-info-right2 li {
+    color: #8a8a8a;
+}
 /*-- skills --*/
 .skills{
  background: url(../images/skill2.jpg) no-repeat 0px 0px;
